@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Docker, Kubernetes, CI/CD**
 
-- 📫 How to reach me **lokeshbalaji2021@gmail.com**
+- 📫 How to reach me **lokeshbalajidev@gmail.com**
 
 - 📄 Know about my experiences [https://www.lokii.tech](https://www.lokii.tech)
 
