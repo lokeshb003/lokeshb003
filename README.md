@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshb003" alt="lokeshb003" /></a> </p>
 
-- 🔭 I’m currently working at [Melospiza Pvt Ltd](https://www.melospiza.in)
+- 🔭 I’m currently working at [Beez Innovation Labs Pvt Ltd](https://www.beezlabs.com)
 
 - 🌱 I’m currently learning **CI/CD, OpenShift**
 
