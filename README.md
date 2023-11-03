@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Advanced DevOps Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.lokii.tech](https://www.lokii.tech)
+- 👨‍💻 All of my projects are available at [https://www.lokeshb.xyz](https://www.lokeshb.xyz)
 
 - 📝 I regularly write articles on [https://medium.com/@lokesh.b.2020.ad](https://medium.com/@lokesh.b.2020.ad)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **lokeshbalajidev@gmail.com**
 
-- 📄 Know about my experiences [https://www.lokii.tech](https://www.lokii.tech)
+- 📄 Know about my experiences [https://www.lokeshb.xyz](https://www.lokeshb.xyz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
