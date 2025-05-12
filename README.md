@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Advanced DevOps Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.lokeshb.xyz](https://www.lokeshb.xyz)
+- 👨‍💻 All of my projects are available at [https://www.lokeshb.xyz](https://www.lokeshb.site)
 
 - 📝 I regularly write articles on [https://medium.com/@lokesh.b.2020.ad](https://medium.com/@lokesh.b.2020.ad)
 
